@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: [DanielWeb]
 description: ..
 show_downloads: false
+gems:
+  - jekyll-redirect-from
